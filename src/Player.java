@@ -6,10 +6,9 @@ import java.util.Timer;
 
 import javax.swing.ImageIcon;
 
-//test comment
 
 public class Player {
-
+public int aids = 100;
 	private String player = "player.png";
 	private Timer timer1;
 	boolean isjumping = false;
