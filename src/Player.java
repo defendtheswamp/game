@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 
 
 public class Player {
-public int aids = 100;
+
 	private String player = "player.png";
 	private Timer timer1;
 	boolean isjumping = false;
