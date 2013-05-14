@@ -15,8 +15,6 @@ public class Frame extends JFrame {
 		setVisible(true); 
 		setResizable(false);
 		}
-//stephen has cancer
-	// shrek has layers
 	
 	
 	public static void main(String[] args) {
