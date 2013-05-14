@@ -6,6 +6,8 @@ import java.util.Timer;
 
 import javax.swing.ImageIcon;
 
+//test comment
+
 public class Player {
 
 	private String player = "player.png";
